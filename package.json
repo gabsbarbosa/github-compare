@@ -1,0 +1,91 @@
+{
+  "name": "github-compare",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.4.15",
+    "@apollo/react-hooks": "^4.0.0",
+    "@clayui/autocomplete": "^3.36.0",
+    "@clayui/badge": "^3.32.0",
+    "@clayui/breadcrumb": "^3.36.0",
+    "@clayui/button": "^3.32.0",
+    "@clayui/card": "^3.36.0",
+    "@clayui/charts": "^3.32.0",
+    "@clayui/color-picker": "^3.36.0",
+    "@clayui/core": "^3.36.0",
+    "@clayui/css": "^3.36.0",
+    "@clayui/data-provider": "^3.36.0",
+    "@clayui/date-picker": "^3.36.0",
+    "@clayui/drop-down": "^3.36.0",
+    "@clayui/empty-state": "^3.32.0",
+    "@clayui/form": "^3.36.0",
+    "@clayui/icon": "^3.32.0",
+    "@clayui/label": "^3.32.0",
+    "@clayui/layout": "^3.32.0",
+    "@clayui/link": "^3.32.0",
+    "@clayui/list": "^3.36.0",
+    "@clayui/localized-input": "^3.36.0",
+    "@clayui/management-toolbar": "^3.32.0",
+    "@clayui/multi-select": "^3.36.0",
+    "@clayui/multi-step-nav": "^3.36.0",
+    "@clayui/nav": "^3.36.0",
+    "@clayui/navigation-bar": "^3.36.0",
+    "@clayui/pagination": "^3.36.0",
+    "@clayui/pagination-bar": "^3.36.0",
+    "@clayui/panel": "^3.36.0",
+    "@clayui/popover": "^3.36.0",
+    "@clayui/progress-bar": "^3.32.0",
+    "@clayui/provider": "^3.36.0",
+    "@clayui/slider": "^3.32.0",
+    "@clayui/table": "^3.32.0",
+    "@clayui/tabs": "^3.36.0",
+    "@clayui/time-picker": "^3.36.0",
+    "@clayui/toolbar": "^3.36.0",
+    "@clayui/tooltip": "^3.36.0",
+    "@clayui/upper-toolbar": "^3.36.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "apollo-boost": "^0.4.9",
+    "apollo-link-http": "^1.5.17",
+    "bootstrap": "^5.1.1",
+    "graphiql": "^1.0.0-alpha.13",
+    "graphql": "^15.6.0",
+    "graphql-config": "^4.0.1",
+    "ra-data-graphql": "^3.18.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.66.0",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "css-loader": "^6.3.0",
+    "style-loader": "^3.3.0"
+  }
+}
